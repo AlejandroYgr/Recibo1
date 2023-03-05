@@ -1,0 +1,30 @@
+{ "Recibo":
+
+  {
+    "Pedido":{
+    "ID":"924-332",
+    "Detalles":"5 unidades",
+    "Fecha del pedido": "31/2/1832"
+    },
+
+    "Socio":{
+    "ID":8432,
+    "Nombre": "Manuel",
+    "Apellidos":"Matamoros García",
+    "Domicilio": "Redmond 1ºA",
+    "email": "manu123@hotmail.es",
+    "telefono": 928240506
+    },
+
+    "Árticulo":{
+    "ID Árticulo": 83453,
+    "Nombre": "Bolso Nike",
+    "Descripción": "Bolso deportivo, cómodo y amplio",
+    "Material": "Polietileno",
+    "Color": "Negro",
+    "Precio": 16.50
+    }
+
+  }
+
+}
